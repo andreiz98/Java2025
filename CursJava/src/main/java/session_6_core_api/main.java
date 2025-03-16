@@ -3,7 +3,7 @@ package session_6_core_api;
 import java.util.Arrays;
 import java.util.StringJoiner;
 
-public class Main {
+public class main {
     public static void main(String[] args) {
 //        stringPool();
 //        stringOperators();
