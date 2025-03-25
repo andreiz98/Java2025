@@ -1,0 +1,19 @@
+Coin Change
+Given a set of coin denominations and a total amount, determine the minimum number of coins needed to make that amount.
+You have an infinite supply of each coin denomination.
+
+Given:
+Coin Denominations: 1, 5, 10, 25 cents
+
+Examples :
+Consider coin denominations of 1, 5, 10, and 25 cents. To make 63 cents
+the minimum number of coins required is 6:
+two 25-cent coins, one 10-cent coin, and three 1-cent coins.
+
+Consider coin denominations of 1, 5, 10, and 25 cents. To make 93 cents
+the minimum number of coins required is 8:
+three 25‑cent coins, one 10‑cent coin, one 5‑cent coin, and three 1‑cent coins.
+
+Consider coin denominations of 1, 5, 10, and 25 cents. To make 93 cents
+the minimum number of coins required is 8:
+three 25‑cent coins, one 10‑cent coin, one 5‑cent coin, and three 1‑cent coins.
