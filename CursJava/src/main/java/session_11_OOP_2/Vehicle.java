@@ -1,7 +1,5 @@
 package session_11_OOP_2;
 
-import java.util.Objects;
-
 public class Vehicle {
     private String brand;
     private String model;
