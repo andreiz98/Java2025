@@ -5,6 +5,6 @@ public interface StringProcessor {
     String processor(String input);
 
     default StringProcessor andThen(StringProcessor after){
-        return input -> after.processor(this.processor(input));
+        return intput -> after.processor(this.processor(intput));
     }
 }
